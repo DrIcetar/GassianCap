@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>4150748d-fa72-4478-8ff6-8f802b331ee1</TargetProject>
+    <FriendlyName>GassianCap</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\DiceX\AppData\Local\Temp\Performance_20170514.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
